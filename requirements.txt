@@ -1,0 +1,6 @@
+aiogram==3.*
+gspread_asyncio==2.*
+gspread==6.*
+oauth2client==4.*
+python-dotenv==1.*
+pydantic==2.*
